@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at LED_blink.v(28): always construct contains both blocking and non-blocking assignments File: F:/Project/EDA/FPGA/Altera/SRC/LED_blink/src/LED_blink.v Line: 28
