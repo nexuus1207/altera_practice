@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/Project/EDA/FPGA/Altera/SRC/encoder8_3/prj/simulation/qsim
+vencoder8_3
+Z1 !s110 1753002790
+!i10b 1
+!s100 bW79PZQP?I0mNDEHcYE371
+IIozl2jE9PjJm7:@SDV2bn3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1753002790
+Z4 8encoder8_3.vo
+Z5 Fencoder8_3.vo
+L0 31
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1753002790.000000
+Z8 !s107 encoder8_3.vo|
+Z9 !s90 -work|work|encoder8_3.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vencoder8_3_vlg_vec_tst
+R1
+!i10b 1
+!s100 W7Pff=;1MzFW`B9iDGbJf2
+II=4NgQFaV@C^[nP1VG@L^3
+R2
+R0
+w1753002789
+8Waveform.vwf.vt
+FWaveform.vwf.vt
+L0 29
+R6
+r1
+!s85 0
+31
+R7
+!s107 Waveform.vwf.vt|
+!s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R10
+R11
+vhard_block
+R1
+!i10b 1
+!s100 AaCI[R]68NTGOO1mlECeh2
+I1<bPOfES=RaF;7SEajF4g1
+R2
+R0
+R3
+R4
+R5
+L0 491
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11

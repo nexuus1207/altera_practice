@@ -1,0 +1,25 @@
+#! /c/Source/iverilog-install/bin/vvp
+:ivl_version "12.0 (devel)" "(s20150603-1539-g2693dd32b)";
+:ivl_delay_selection "TYPICAL";
+:vpi_time_precision + 0;
+:vpi_module "F:\software\MICROC~1\Tools\iverilog\lib\ivl\system.vpi";
+:vpi_module "F:\software\MICROC~1\Tools\iverilog\lib\ivl\vhdl_sys.vpi";
+:vpi_module "F:\software\MICROC~1\Tools\iverilog\lib\ivl\vhdl_textio.vpi";
+:vpi_module "F:\software\MICROC~1\Tools\iverilog\lib\ivl\v2005_math.vpi";
+:vpi_module "F:\software\MICROC~1\Tools\iverilog\lib\ivl\va_math.vpi";
+:vpi_module "F:\software\MICROC~1\Tools\iverilog\lib\ivl\v2009.vpi";
+S_000001db67b26c40 .scope package, "$unit" "$unit" 2 1;
+ .timescale 0 0;
+S_000001db67b26dd0 .scope module, "encoder3_8" "encoder3_8" 3 3;
+ .timescale 0 0;
+    .port_info 0 /INPUT 8 "x";
+    .port_info 1 /OUTPUT 3 "y";
+o000001db67b26f68 .functor BUFZ 8, C4<zzzzzzzz>; HiZ drive
+v000001db67af3490_0 .net "x", 7 0, o000001db67b26f68;  0 drivers
+v000001db67af30a0_0 .var "y", 2 0;
+# The file index is used to find the file name in the following table.
+:file_names 4;
+    "N/A";
+    "<interactive>";
+    "-";
+    "f:/Project/EDA/FPGA/Altera/SRC/encoder3_8/src/encoder3_8.v";
